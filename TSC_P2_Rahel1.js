@@ -50,4 +50,3 @@ for (let i = 0; i < daftarBuku.length; i++) {
       console.log(`Judul: ${daftarBuku[i].judul}, Penulis: ${daftarBuku[i].penulis}, Penerbit: ${daftarBuku[i].penerbit}, Genre: ${daftarBuku[i].genre}`);
   }
 }
-// Rahel Veralda Hutahaean
